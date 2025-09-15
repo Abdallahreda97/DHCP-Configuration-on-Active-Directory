@@ -15,7 +15,19 @@ This project documents how I installed and configured the **DHCP role** on a Win
 ---
 
 ## Screenshots
-
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP1.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP2.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP3.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP4.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP5.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP6.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP7.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP8.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP9.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP10.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP11.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP12.png
+https://github.com/Abdallahreda97/DHCP-Configuration-on-Active-Directory/blob/main/screenshots/DHCP13.png
 ---
 
 ## Conclusion
